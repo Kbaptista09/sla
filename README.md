@@ -3,7 +3,7 @@
 
 *estou estudando no Alura*
 
-*Espaço para organização e comprtihameto de projetos*
+*espaço para organização e compartihamento de projetos*
 
 # você pode entrar em contato comigo
 _isabele.baptista.santos@escola.pr.gov.br_
